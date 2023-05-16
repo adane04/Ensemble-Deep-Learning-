@@ -1,2 +1,2 @@
 # Ensemble-Deep-Learning-
-Ensemble Deep Learning Implementation for Human Activity Recognition  (HAR) in python 
+Ensemble Deep Learning  for Human Activity Recognition  (HAR) is implemented in  python using smarphone dataset. 
